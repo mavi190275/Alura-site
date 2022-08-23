@@ -1,3 +1,23 @@
-p {
-	text-aling: center
+  body {
+  	background: #CCCCCC;
+  } 
+
+
+#banner {
+	
 }
+  h1 {
+  	text-align: center
+  }
+
+  p {
+  	text-align: center;
+  }
+
+
+#missao {
+	font-size: 20px
+}
+  em strong {
+  	     color: darkblue;
+  }
