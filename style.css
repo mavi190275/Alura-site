@@ -36,9 +36,9 @@
   }
 
   h2 {
-       text-align: center;
+    text-align: center;
   }
 
- #beneficios {
-       width: 100%;
- }
+.imagembeneficios {
+    width: 50%;
+}
